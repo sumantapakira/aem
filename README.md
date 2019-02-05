@@ -4,9 +4,9 @@ Natural Language processing tool. This is a powerful feature for content authors
 based on the auto created tags. Content authors do not need to tag pages manually.
 This plugin uses the machine learning algorithm to detect 3 different entities:
 
- Person
- Location
- Organization
+* Person
+* Location
+* Organization
 
 So, once an author create content then this plugin will analyze and extract the content based on the
 above 3 criteria.
